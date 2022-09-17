@@ -1,0 +1,22 @@
+{
+  "name": "weekly-challenge-2022-js",
+  "version": "1.0.0",
+  "description": "<a href=\"https://youtu.be/8HuQXzJl_1I\"><img src=\"http://i3.ytimg.com/vi/8HuQXzJl_1I/maxresdefault.jpg\" style=\"height: 50%; width:50%;\"/></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalazarnatanael/Weekly-Challenge-2022-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zalazarnatanael/Weekly-Challenge-2022-JS/issues"
+  },
+  "homepage": "https://github.com/zalazarnatanael/Weekly-Challenge-2022-JS#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
